@@ -17,4 +17,4 @@ I'm Salah Moussaoui, a mobile app developer with a passion for creating beautifu
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salah-moussaoui&show_icons=true&theme=radical&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salah-moussaoui&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salah-moussaoui&langs_count=8&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
