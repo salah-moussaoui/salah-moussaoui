@@ -4,7 +4,6 @@ I'm Salah Moussaoui, a mobile app developer with a passion for creating beautifu
 
 🔗 https://salah-moussaoui.vercel.app
 
-- 🔭 I’m currently working on @DeliverWithNimbus
 - 🌱 I’m currently learning NodeJs & ReactJs
 - 📫 How to reach me: salah.flutter@gmail.com
 - 💬 Ask me about Flutter
