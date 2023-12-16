@@ -13,5 +13,3 @@ I'm Salah Moussaoui, a mobile app developer with a passion for creating beautifu
 
 
 
-![GitHub stats](https://salah-github-readme-stats.vercel.app/api?username=salah-moussaoui&show_icons=true&theme=radical&count_private=true)
-
