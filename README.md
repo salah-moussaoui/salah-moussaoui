@@ -104,11 +104,18 @@ I thrive on tackling complex challenges that require both a designer’s eye and
 
 <p align="center">
   <img src="https://salah-github-readme-stats.vercel.app/api?username=salah-moussaoui&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://salah-github-readme-stats.vercel.app/api/pin/?username=salah-moussaoui&repo=github-readme-stats" alt="Pinned Repo" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salah-moussaoui&theme=default&count_private=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salah-moussaoui&show=reviews,discussions_started,prs_merged,issues_resolved&theme=default&count_private=true" alt="Extra Stats" />
 </p>
+
 ---
 
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salah-moussaoui&theme=flat" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salah-moussaoui&theme=flat&no-bg=true&no-frame=true&title=Commits,Repositories,Followers,Contributions" alt="Trophies" />
 </p>
