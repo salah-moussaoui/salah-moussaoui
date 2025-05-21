@@ -25,7 +25,7 @@ I thrive on tackling complex challenges that require both a designer’s eye and
 ---
 
 - 🧠 Passionate about building innovative tech solutions.
-- 💼 CTO at [Visuella](https://visuella.dz), leading a dynamic team of developers.
+- 💼 CTO at [Visuella](https://visuella-dz.com), leading a dynamic team of developers.
 - ☕ Coffee fuels my code!
 
 ---
