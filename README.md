@@ -104,8 +104,6 @@ I thrive on tackling complex challenges that require both a designer’s eye and
 
 <p align="center">
   <img src="https://salah-github-readme-stats.vercel.app/api?username=salah-moussaoui&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://salah-github-readme-stats.vercel.app/api/top-langs/?username=salah-moussaoui&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 ---
 
