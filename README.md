@@ -97,8 +97,9 @@ I thrive on tackling complex challenges that require both a designer’s eye and
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://salah-github-readme-stats.vercel.app/api?username=salah-moussaoui&show=reviews,discussions_started,prs_merged,issues_resolved&theme=default&count_private=true" alt="Extra Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salah-moussaoui&theme=default&count_private=true" alt="GitHub Streak" />
+  <img src="https://salah-github-readme-stats.vercel.app/api?username=salah-moussaoui&show=reviews,discussions_started,prs_merged,issues_resolved&theme=gruvbox&count_private=true" alt="Extra Stats" />
+  <br/>
+  <img src="https://salah-github-readme-streak-stats.vercel.app?user=salah-moussaoui&theme=gruvbox&count_private=true" alt="GitHub Streak" />
 </p>
 
 ---
